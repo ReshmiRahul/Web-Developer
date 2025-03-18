@@ -10,7 +10,7 @@ const Experience = () => {
                     <div className='flex gap-3 py-4 md:ml-20 md:mt-0 flex-col'>
                         <h1 className='font-bold text-xl'>Full Stack Developer Intern</h1>
                         <p className='text-sm md:text-md leading-tight text-slate-400'>
-                            Iter Innovandi | Dec 2024 - Present
+                            Iter Innovandi | Jul 2024 - Mar 2025
                         </p>
                         <p className='text-sm md:text-md leading-tight text-yellow-300'>
                         &#9733; Working on a Voice Agent project, an AI-driven solution that enhances customer interactions through intelligent voice automation.

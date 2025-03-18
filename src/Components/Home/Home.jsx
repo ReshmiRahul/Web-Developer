@@ -17,7 +17,7 @@ const Home = () => {
 
                 <div className='flex flex-col items-center mt-6 mb-4 md:mb-0'>
 
-                    <a href="ReshmiResume.pdf" download='ReshmiResume.pdf' className='w-full'>
+                    <a href="Reshmi_Resume.pdf" download='Reshmi_Resume.pdf' className='w-full'>
                         <button className='w-full mt-5 md:md-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85
                 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697] flex items-center justify-center 
                 gap-2'>My Resume <BiDownload /></button>
